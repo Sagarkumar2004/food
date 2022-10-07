@@ -77,31 +77,31 @@ border-radius: 20px;
 
 }
 .cross{
-    width: 60px;
-    height: 40px;
+    width: 40px;
+    height: 20px;
     position: absolute;
     top: 2%; 
     right: 15px;
 }
 .cross img{
     display: none;
-    width: 60px;
-    height: 40px;
+    width: 24px;
+    height: 28px;
     cursor: pointer;
    
 
 }
 .menu{
-    width: 60px;
-    height: 40px;
+    width: 40px;
+    height: 20px;
     position: absolute;
     top: 2%; 
     right: 15px;
 }
 .menu img{
     display: none;
-    width: 60px;
-    height: 40px;
+   width: 30px;
+    height: 24px;
     cursor: pointer;
  
 
